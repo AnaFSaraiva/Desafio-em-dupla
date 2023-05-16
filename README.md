@@ -1,7 +1,7 @@
-#Projeto em dupla Ana Paula Saraiva e Cibele Souza
+# Projeto em dupla Ana Paula Saraiva e Cibele Souza
 > 3º Desafio do Projeto Desenvolve 2023.
     
- ##Criação de uma pagina em HTML e CSS a partir de um layout apresentado o Figma
+ ## Criação de uma pagina em HTML e CSS a partir de um layout apresentado o Figma
 
 repositorio possui:
 * Index
